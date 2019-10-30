@@ -43,12 +43,15 @@ staff-hours:
      staff: ['fydai']
    - time: ['14:00', '16:00']
      staff: ['php']
+     cancelled: true
   Wednesday:
    - time: ['11:00', '12:30']
      staff: ['cooperc']
    - time: ['14:00', '16:00']
      staff: ['php']
      cancelled: true
+   - time: ['15:00', '18:00']
+     staff: ['snarain']
    - time: ['16:00', '17:00']
      staff: ['gleeb']
   Thursday:
