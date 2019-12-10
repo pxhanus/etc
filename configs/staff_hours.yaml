@@ -76,6 +76,7 @@ staff-hours:
      staff: ['jaw']
    - time: ['14:00', '16:00']
      staff: ['php']
+     cancelled: true
   Saturday:
    - time: ['14:00', '16:00']
      staff: ['php']
